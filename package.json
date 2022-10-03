@@ -1,6 +1,6 @@
 {
     "name": "Saphyrium-Launcher",
-    "preductname": "Saphyrium-Launcher",
+    "preductname": "Saphyrium",
     "version": "1.0.0",
     "description": "Launcher officiel du serveur minecraft PvP/Faction moddé Saphyrium",
     "main": "src/app.js",
