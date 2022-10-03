@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "1.0.5",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "name": "Saphyrium-Launcher",
+    "preductname": "Saphyrium",
+    "version": "1.0.0",
+    "description": "Launcher officiel du serveur minecraft PvP/Faction moddé Saphyrium",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://launcher.selvania.fr",
+    "author": "Knipe",
+    "url": "http://192.168.1.81",
     "engines": {
         "node": "16.x.x"
     },
@@ -31,6 +31,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Yoda354/Saphyrium-Launcher.git"
     }
 }
